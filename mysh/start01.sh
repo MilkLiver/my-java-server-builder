@@ -1,0 +1,1 @@
+asdf -p 8080 & java -jar /opt/app-root/src/my-server.jar

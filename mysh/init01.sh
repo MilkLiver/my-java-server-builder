@@ -1,0 +1,1 @@
+#mkdir /opt/app-root/src/mytest02;touch /opt/app-root/src/mytest02/aa.txt;
