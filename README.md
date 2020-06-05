@@ -3,6 +3,9 @@
 
 ## Getting started  
 
+docker build -t <build image name> .
+s2i build .\test\ <build image name> <image name>
+
 ### Files and Directories  
 | File                   | Required? | Description                                                  |
 |------------------------|-----------|--------------------------------------------------------------|
